@@ -7,6 +7,8 @@ It is heavily based upon Google's own internal implementation of the GlowPadView
 
 I'm releasing my own code under the same Apache 2.0 license the underlying Android code is licensed under. Android code is written by Google, and licensed under that same Apache 2.0 license.
 
+##This fork's changes
+- Added ability to register any slide to the outer ring as a "hit" (similar to 4.2's lock screen) provided that there is only one target enabled, and the `GlowPadView` has `magneticTargets` enabled.
 
 ## What is a GlowPad?
 
