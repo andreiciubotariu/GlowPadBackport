@@ -9,14 +9,14 @@
 *.class
 
 # generated files
-library/bin/
-library/gen/
-sample/bin/
-sample/gen/
-library/out/
-sample/out/
-library/.idea/
-sample/.idea/
+glowpadbackport-library/bin/
+glowpadbackport-library/gen/
+glowpadbackport-sample/bin/
+glowpadbackport-sample/gen/
+glowpadbackport-library/out/
+glowpadbackport-sample/out/
+glowpadbackport-library/.idea/
+glowpadbackport-sample/.idea/
 
 # Local configuration file (sdk path, etc)
 local.properties
